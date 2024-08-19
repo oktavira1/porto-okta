@@ -15,12 +15,12 @@ export default {
         },
         {
           id: 2,
-          name: 'Foody',
+          name: 'Sistem Pendukung Keputusan',
           imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for users to search, select, and order food from various restaurants or food providers online.',
+          status: 'Applications that can be used to get the best decision results',
           tech: 'Bootstrap',
           github: 'null',
-          demo: 'https://oktavira1.github.io/foody/'
+          demo: 'https://ahptopsis.iniprojectku.my.id'
         },
         {
           id: 3,
@@ -29,7 +29,7 @@ export default {
           status: 'A web application to assist staff in the computerized conduct of meetings and manage additional access rights to manage meeting agenda',
           tech: 'Bootstrap',
           github: 'null',
-          demo: 'https://agenda-rapatt.000webhostapp.com/'
+          demo: 'https://rapat.iniprojectku.my.id'
         },
         {
           id: 4,
@@ -47,7 +47,7 @@ export default {
           status: 'A web application to manage assets owned by the company.',
           tech: 'PHPRad',
           github: 'null',
-          demo: 'https://oktvra.000webhostapp.com/'
+          demo: 'null'
         }
       ]
     };
