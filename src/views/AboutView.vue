@@ -110,14 +110,12 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Oktavira Isni Alfaningrum. I am a student at the University of 
-            Muhammadiyah Semarang. I have also joined the Perhutani Regional Division of Central Java as an intern student.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has aesthetic value
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Oktavira Isni Alfaningrum. I am a fresh graduate of Informatics Engineering from University of 
+            Muhammadiyah Semarang. I have a strong foundation in programming and system development. During my studies, I have worked on various projects that involved creating and modifying applications according to specifications, as well as testing applications. I also have experience in creating documentation that assists users in operating applications effectively. 
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
+            &nbsp; &nbsp; &nbsp; I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
+            has aesthetic value. Happy to learn new things and detail-oriented and have an interest in working in IT in BUMN, Private, FMCG and Multinational Companies. If you are interested in hiring me,
             please contact the listed contact.
           </p>
         </div>
