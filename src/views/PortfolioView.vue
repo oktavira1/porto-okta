@@ -9,7 +9,7 @@ export default {
           name: 'Travel-web',
           imageUrl: 'portfolio_v2',
           status: 'A website designed to help travelers plan and live adventures exploring destinations around the world.',
-          tech: 'Bootstrap',
+          tech: '',
           github: 'null',
           demo: 'https://oktavira1.github.io/tour/'
         },
@@ -27,18 +27,18 @@ export default {
           name: 'Agenda Rapat',
           imageUrl: 'sistekdes',
           status: 'A web application to assist staff in the computerized conduct of meetings and manage additional access rights to manage meeting agenda',
-          tech: 'Bootstrap',
+          tech: 'Native',
           github: 'null',
           demo: 'https://rapat.iniprojectku.my.id'
         },
         {
           id: 4,
-          name: 'PerhutaniPro',
+          name: 'Perhutani Property',
           imageUrl: 'bumdesma',
           status: 'a web application used to display existing assets in Perhutani for rental or sale to clients.',
           tech: 'Bootstrap',
           github: 'null',
-          demo: 'null'
+          demo: 'http://aset.iniprojectku.my.id'
         },
         {
           id: 5,
